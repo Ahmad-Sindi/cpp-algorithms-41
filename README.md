@@ -20,6 +20,7 @@ Basic program structure in C++
 🧩 Example
 =
 Input:
+
 Enter your working hours: 120
 
 Output:
