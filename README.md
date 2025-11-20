@@ -25,6 +25,7 @@ Enter your working hours: 120
 Output:
 
 0.714286 Weeks
+
 5 Days
 
 📂 File Information
